@@ -44,3 +44,5 @@ There are also many interesting and spiritual up owners above. 😍
 Keeps me curious and eager for new things. 🤩
 And most importantly, ✋
 You don't need to log in to download from GitHub! 😤
+
+The running speed of Koujo is 114514 times faster than Woolang!
