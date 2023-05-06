@@ -23,7 +23,7 @@ check out your [Discord](https://discord.gg).
 Otherwise, you can:
 - Read the [inspiration behind Koujo](https://www.google.com/search?q=koujo).
 - Check out the [Koujo programming manual](https://www.google.com/search?q=koujo).
-- Read our other docs on [docs.modular.com/Koujo](https://www.google.com/search?q=koujo).
+- Read our other docs on [www.google.com/search?q=koujo](https://www.google.com/search?q=koujo).
 
 
 How do you understand me? 😠<br>
